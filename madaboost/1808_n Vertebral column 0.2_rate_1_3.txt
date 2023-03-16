@@ -1,0 +1,6 @@
+
+
+ Adaboost with SVM (sklearn):
+
+ New rate = 0.3333333333333333, test size = 0.30000000000000004, C = 10000, M = 5
+
